@@ -1,0 +1,9 @@
+defaults:
+  - dataset
+  - client
+  - model
+  - attack
+  - strategy
+  - dp
+plot:
+  smoothing_window: 0

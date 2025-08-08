@@ -1,0 +1,5 @@
+client:
+  count: 100 # number of clients
+  resources:
+    num_cpus: 8 #number of cpus
+    num_gpus: 0.2 # Fraction of clients per gpu
