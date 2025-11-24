@@ -1,4 +1,4 @@
-# HARFed: Federated Learning Experiment Similator
+# HARFed: Federated Learning Experiment Simulator
 Heterogeneity, Attacks, and Robustness in Federated Learning
 ---
 
