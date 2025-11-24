@@ -43,7 +43,7 @@ The Harfed application provides a streamlined interface for setting up and condu
 2. **Launch the Streamlit app**:
    Run the following command to start the Streamlit application:
    ```
-   streamlit run run_experiment.py
+   streamlit run app.py
    ```
 
 3. **Configure the experiment**:
